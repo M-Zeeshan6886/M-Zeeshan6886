@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Enthusiastic coder and continuous learner<br>👯 Open to collaboration on innovative projects<br>🤝Eager to contribute and grow within the coding community<br>🌱  Translating ideas into functional and elegant solutions<br>💬 Let's code and create together! 🚀<br>⚡ Fun fact: I code best when powered by coffee! ☕💻<br><br><br><br><br><br>
+🔭 Enthusiastic coder and continuous learner<br>👯 Open to collaboration on innovative projects<br>🤝Eager to contribute and grow within the coding community<br>🌱  Let's code and create together! <br>💬 Translating ideas into functional and elegant solutions  🚀<br>⚡ Fun fact: I code best when powered by coffee! ☕💻<br><br><br><br><br><br>
 
 
 ## 🌐 Socials:
