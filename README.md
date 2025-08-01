@@ -1,13 +1,27 @@
-# M Zesshan Zafar
+# Muhammad Zesshan Zafar
 <!-- banner -->
-<img src="./assets/killua-banner.jpeg" width="100%"/>
 
 <p align="left"> Front-end developer. Proficient in building responsive, user-friendly interfaces and
 translating designs into functional applications. Eager to contribute and grow within a
 dynamic team.</p>
 
-### Your can reach me at: **<mzxeeshuu@gmail.com>**
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="(https://www.linkedin.com/in/mzeeshanzafar/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40"></a>
+  <a href="mailto:mzxeeshuu@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Gmail" height="30" width="40">
+</a>
 
+<a href="https://x.com/MzXeeshuu" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="MzXeeshuu on X" height="30" width="30">
+</a>
+
+
+</p>
+<br>
+<div style="display: flex; gap: 5px; align-items: center;">
+</div>
 <!-- got u -->
 <a href="https://youtu.be/xvFZjo5PgG0?si=4g5LqRk7biVjJ7Sq"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
@@ -19,9 +33,7 @@ dynamic team.</p>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![React js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 ![Next js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
@@ -55,4 +67,4 @@ dynamic team.</p>
 </picture>
 <br>
 <br>
-<img src="./assets/download.jpg" width="100%"/>
+
