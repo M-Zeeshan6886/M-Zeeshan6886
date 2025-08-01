@@ -6,7 +6,7 @@
 translating designs into functional applications. Eager to contribute and grow within a
 dynamic team.</p>
 
-### Your can reach me at: **<iknevo.dev@gmail.com>**
+### Your can reach me at: **<mzxeeshuu@gmail.com>**
 
 <!-- got u -->
 <a href="https://youtu.be/xvFZjo5PgG0?si=4g5LqRk7biVjJ7Sq"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
